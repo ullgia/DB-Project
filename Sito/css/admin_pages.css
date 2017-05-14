@@ -1,0 +1,10 @@
+/* 
+ * Questo file contiene i css solo delle pagine visibili agli admin
+ * NOTA: usa . per class, # per id 
+ */
+
+
+
+.ricaricaavvenuta {
+	text-align: center;
+}

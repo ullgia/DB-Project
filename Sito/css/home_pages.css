@@ -1,0 +1,27 @@
+/* 
+ * Questo file contiene i css solo delle pagine visibili agli utenti NON registrati
+ * NOTA: usa . per class, # per id 
+ */
+
+.col-lg-12 {
+	text-align: center;
+}
+
+/* Permette di ridimensionare il form di login e
+mantenerlo al centro della schermata */
+#login-div{
+	width: 500px; 
+	text-align: center;
+}
+
+h1 {
+	text-align:center;
+}
+
+/* Permette di ridimensionare il form di registrazione e
+mantenerlo al centro della schermata */
+#registrazione-div {
+	width: 500px; 
+	text-align: center;
+}
+
